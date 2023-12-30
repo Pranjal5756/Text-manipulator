@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pranjal5756/Text-manipulator.git/static/css/main.e6c13ad2.css",
+    "main.js": "/Pranjal5756/Text-manipulator.git/static/js/main.d13c6ae3.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Pranjal5756/Text-manipulator.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Pranjal5756/Text-manipulator.git/index.html",
+    "main.e6c13ad2.css.map": "/Pranjal5756/Text-manipulator.git/static/css/main.e6c13ad2.css.map",
+    "main.d13c6ae3.js.map": "/Pranjal5756/Text-manipulator.git/static/js/main.d13c6ae3.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Pranjal5756/Text-manipulator.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d13c6ae3.js"
+  ]
+}
