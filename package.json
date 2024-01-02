@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://github.com/Pranjal5756/Text-manipulator",
+=======
+  "homepage": "https://github.com/Pranjal5756/Text-manipulator.git",
+>>>>>>> 38fdf01ecd04a5d2b51555698e3b5fe57941965e
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +18,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
